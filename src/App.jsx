@@ -12,6 +12,7 @@ function App() {
       <Mid />
       <Contact />
       <Footer />
+      <div className="marea">
       <div className="bloque-izq">
             <div className="waves">
                 <div className="new2-wave" id="wave1"></div>
@@ -28,6 +29,8 @@ function App() {
                 <div className="new-wave" id="wave4"></div>
             </div>
         </div>
+      </div>
+      
 
     </div>
   )
