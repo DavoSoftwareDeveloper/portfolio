@@ -1386,7 +1386,7 @@ font-size: small;
     background-color: black;
     border-radius: 50%;
     border: 3px solid white;
-    margin-left:-50px;
+    margin-left:20px;
     top:-30px;
     transform:scale(0.4);
   }
@@ -1407,7 +1407,7 @@ font-size: small;
   
   .title{
     position: relative;
-    left:-30px;
+    left:-110px;
     top:0px;
     font-size:4rem;
     font-family:Barrio, Helvetica, Arial, sans-serif;
@@ -1429,7 +1429,7 @@ font-size: small;
   }
   
   .text-top{
-    left:-30px;
+    left:-110px;
     position:relative;
     display:flex;
     justify-content:space-between;
