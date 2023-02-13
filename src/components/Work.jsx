@@ -28,9 +28,20 @@ const Work = () => {
                     <div className='square'>
                     </div>
                     <div className='work'>
-                        <h3>Freelance</h3>
-                        <p>Full Stack Web Developer <span>- February 2019 to June 2021 -</span></p>
+                        <h3>Freelance Developer</h3>
+                        <p>Full Stack Web Developer <span>- February 2020 to June 2021 -</span></p>
                         <p>Web Project Manager for MyGreenPepper & Fotofiguras Mascotas: Design, development, deployment, updating and maintenance.</p>
+                    </div>
+                    <div className='square'>
+                    </div>
+                </article>
+                <article className='works'>
+                    <div className='square'>
+                    </div>
+                    <div className='work'>
+                        <h3>Fotofiguras Mascotas</h3>
+                        <p>Autónomo <span>- April 2015 to September 2020 -</span></p>
+                        <p>Full stack web development and deploy, customers support, production, shipment, sales, financial control..</p>
                     </div>
                     <div className='square'>
                     </div>
