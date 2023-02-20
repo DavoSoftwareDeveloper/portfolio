@@ -22,6 +22,23 @@ export function Skills() {
             <p>Tools</p>
         </div>  
         <div className='items'>
+
+            <div className='container-name_up'>
+                    <p>React</p>
+            </div>
+            <div className='container-name_mid'>
+                    <p>Html5</p>
+                    <p>CSS3</p>
+                    <p>Javascript</p>
+            </div>
+            <div className='container-name_down'>
+                    <p>Figma</p>
+                    <p>Node.js</p>
+                    <p>GitHub</p>
+                    <p>Redux</p>
+                    <p>GraphQL</p>
+            </div>
+
             <div className='container-simbol_up'>
                     <SiReact className='simbol-main'></SiReact>
             </div>
@@ -53,6 +70,7 @@ export function Skills() {
                 <div className="block block_3"></div>
                 <div className="block block_3"></div>
             </div>
+         
         </div>                   
     </div>
 </div>

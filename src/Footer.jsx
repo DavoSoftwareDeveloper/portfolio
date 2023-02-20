@@ -9,7 +9,7 @@ export function Footer() {
     <div className="footer">
 
         <ul className="social-icons">
-            <li><a target="_blank" href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/in/davodeveloper/"><ion-icon name="logo-linkedin"></ion-icon></a></li>
             <li><a target="_blank" href="https://github.com/DavoSoftwareDeveloper?tab=repositories"><BsGithub name="logo-instagram"></BsGithub></a></li>
             <li><a target="_blank" href="#"><AiOutlineTwitter name="logo-twitter"></AiOutlineTwitter></a></li>
         </ul>
