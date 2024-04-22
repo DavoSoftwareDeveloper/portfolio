@@ -32,8 +32,8 @@ export function Top() {
             <div className='flex-top'>
                   <div className="title" id="title"> Hi! I'm <span className="border-text">Davo</span>, software <span className="border-text">developer</span> </div>
                   <p className="text-top" id="parraf">Passionate about technology and art.<br>
-                    </br>Totally engaged to the project development, from the initial idea where we find the fundamental parts to a satisfactory solution for achieve the goals needed.<br>
-                    </br> Full-Stack devoted to design and efficiency.</p>
+                    </br> I am totally engaged to the project development process. From the initial idea, I identify the fundamental components needed to achieve the desired goals and develop a satisfactory solution.<br>
+                    </br> As a full-stack developer, I am devoted to both design and efficiency.</p>
             </div>
         </div>
     </div>

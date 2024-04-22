@@ -158,6 +158,7 @@ h1 {
   font-family:Barrio, Helvetica, Arial, sans-serif;
   width:630px;
   line-height: 5rem;
+  -webkit-animation: slideTitle 8s linear 1 reverse ;
   animation: slideTitle 8s linear 1 reverse ;
 }
 /*
@@ -181,6 +182,7 @@ h1 {
   height:auto;
   top:280px;
 
+  -webkit-animation: slideText 8s linear 1 reverse ;
   animation: slideText 8s linear 1 reverse ;
 }
 
@@ -698,24 +700,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re-animateWave 6s linear infinite;
   animation: re-animateWave 6s linear infinite;
 }
 .new-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re-animateWave_2 6s linear infinite;
   animation: re-animateWave_2 6s linear infinite;
 }
 .new-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re-animateWave 4s linear infinite;
   animation: re-animateWave 4s linear infinite;
 }
 .new-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re-animateWave_2 4s linear infinite;
   animation: re-animateWave_2 4s linear infinite;
 }
 
@@ -759,24 +765,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re2-animateWave 8s linear infinite;
   animation: re2-animateWave 8s linear infinite;
 }
 .new2-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re2-animateWave_2 8s linear infinite;
   animation: re2-animateWave_2 8s linear infinite;
 }
 .new2-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re2-animateWave 6s linear infinite;
   animation: re2-animateWave 6s linear infinite;
 }
 .new2-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re2-animateWave_2 6s linear infinite;
   animation: re2-animateWave_2 6s linear infinite;
 }
 
@@ -847,24 +857,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re-animateWave 6s linear infinite;
   animation: re-animateWave 6s linear infinite;
 }
 .new-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re-animateWave_2 6s linear infinite;
   animation: re-animateWave_2 6s linear infinite;
 }
 .new-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re-animateWave 4s linear infinite;
   animation: re-animateWave 4s linear infinite;
 }
 .new-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re-animateWave_2 4s linear infinite;
   animation: re-animateWave_2 4s linear infinite;
 }
 
@@ -908,24 +922,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re2-animateWave 8s linear infinite;
   animation: re2-animateWave 8s linear infinite;
 }
 .new2-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re2-animateWave_2 8s linear infinite;
   animation: re2-animateWave_2 8s linear infinite;
 }
 .new2-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re2-animateWave 6s linear infinite;
   animation: re2-animateWave 6s linear infinite;
 }
 .new2-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re2-animateWave_2 6s linear infinite;
   animation: re2-animateWave_2 6s linear infinite;
 }
 
@@ -1101,24 +1119,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re-animateWave 6s linear infinite;
   animation: re-animateWave 6s linear infinite;
 }
 .new-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re-animateWave_2 6s linear infinite;
   animation: re-animateWave_2 6s linear infinite;
 }
 .new-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re-animateWave 4s linear infinite;
   animation: re-animateWave 4s linear infinite;
 }
 .new-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re-animateWave_2 4s linear infinite;
   animation: re-animateWave_2 4s linear infinite;
 }
 
@@ -1162,24 +1184,28 @@ font-size: small;
   z-index: 1000;
   opacity: 1;
   bottom: 0;
+  -webkit-animation: re2-animateWave 8s linear infinite;
   animation: re2-animateWave 8s linear infinite;
 }
 .new2-wave#wave2{
   z-index: 999;
   opacity: 0.5;
   bottom: 10px;
+  -webkit-animation: re2-animateWave_2 8s linear infinite;
   animation: re2-animateWave_2 8s linear infinite;
 }
 .new2-wave#wave3{
   z-index: 1000;
   opacity: 0.2;
   bottom: 15px;
+  -webkit-animation: re2-animateWave 6s linear infinite;
   animation: re2-animateWave 6s linear infinite;
 }
 .new2-wave#wave4{
   z-index: 999;
   opacity: 0.7;
   bottom: 20px;
+  -webkit-animation: re2-animateWave_2 6s linear infinite;
   animation: re2-animateWave_2 6s linear infinite;
 }
 
@@ -1201,6 +1227,7 @@ font-size: small;
   font-family:Barrio, Helvetica, Arial, sans-serif;
   width:530px;
   line-height: 5rem;
+  -webkit-animation: slideTitle 8s linear 1 reverse ;
   animation: slideTitle 8s linear 1 reverse ;
 }
 /*
@@ -1225,6 +1252,7 @@ font-size: small;
   top:280px;
   left: -60px;
 
+  -webkit-animation: slideText 8s linear 1 reverse ;
   animation: slideText 8s linear 1 reverse ;
 }
 
@@ -1513,6 +1541,7 @@ font-size: small;
     font-family:Barrio, Helvetica, Arial, sans-serif;
     width:200px;
     line-height: 3rem;
+    -webkit-animation: slideTitle 8s linear 1 reverse ;
     animation: slideTitle 8s linear 1 reverse ;
   }
   /*
@@ -1538,6 +1567,7 @@ font-size: small;
     top:90px;
     font-size: 1.2rem;
   
+    -webkit-animation: slideText 8s linear 1 reverse ;
     animation: slideText 8s linear 1 reverse ;
   }
   
@@ -2061,24 +2091,28 @@ font-size: small;
     z-index: 1000;
     opacity: 1;
     bottom: 0;
+    -webkit-animation: re-animateWave 6s linear infinite;
     animation: re-animateWave 6s linear infinite;
   }
   .new-wave#wave2{
     z-index: 999;
     opacity: 0.5;
     bottom: 10px;
+    -webkit-animation: re-animateWave_2 6s linear infinite;
     animation: re-animateWave_2 6s linear infinite;
   }
   .new-wave#wave3{
     z-index: 1000;
     opacity: 0.2;
     bottom: 15px;
+    -webkit-animation: re-animateWave 4s linear infinite;
     animation: re-animateWave 4s linear infinite;
   }
   .new-wave#wave4{
     z-index: 999;
     opacity: 0.7;
     bottom: 20px;
+    -webkit-animation: re-animateWave_2 4s linear infinite;
     animation: re-animateWave_2 4s linear infinite;
   }
   
@@ -2122,24 +2156,28 @@ font-size: small;
     z-index: 1000;
     opacity: 1;
     bottom: 0;
+    -webkit-animation: re2-animateWave 8s linear infinite;
     animation: re2-animateWave 8s linear infinite;
   }
   .new2-wave#wave2{
     z-index: 999;
     opacity: 0.5;
     bottom: 10px;
+    -webkit-animation: re2-animateWave_2 8s linear infinite;
     animation: re2-animateWave_2 8s linear infinite;
   }
   .new2-wave#wave3{
     z-index: 1000;
     opacity: 0.2;
     bottom: 15px;
+    -webkit-animation: re2-animateWave 6s linear infinite;
     animation: re2-animateWave 6s linear infinite;
   }
   .new2-wave#wave4{
     z-index: 999;
     opacity: 0.7;
     bottom: 20px;
+    -webkit-animation: re2-animateWave_2 6s linear infinite;
     animation: re2-animateWave_2 6s linear infinite;
   }
   
